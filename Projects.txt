@@ -1,0 +1,55 @@
+Chapter 1 Introduction to Control Systems
+Black reports [8]:
+Then came the m orning of Tuesday, August 2, 1927, when the concept of the negati ve
+feedback ampli fier came to me in a flash while I was crossing the Hudson River OIl the
+Lackawanna Ferry, 0 11 my way to work. For more than 50 years T have pondered how
+and why the idea came, and I can't say any more today th an 1 could that morning. All I
+know is that after several years of hard work on the problem, r suddenly realized that if
+I fed the amplifier output back to the input, in reverSe phase, and kepI the device from
+oscillating (s inging. as we called it the n), I would have exactly what I wanted: a means
+of canceling out the distortion in the output. I opened my morning newspaper and on a
+page of The New York Tim es I sketched a simple canonical diagram of a negative feedback
+ampli fier plus the equations for the amplification with feedback. I signed the
+sketch, and 20 mi nutes la ter. when I reached the laboratory at 463 West Street, it was
+wi tn essed, understood, and signed by the late Earl C. Blessing.
+I envisioned this circuit as leading to extremely linear amplifie rs (40 to 50 dB of
+negative feedback ), but an important question is: How did I know I could avoid se lfoscillations
+over v ery wide frequency bands when many people doubted such circuits
+would be stable? My confidence stemmed from work that r had dOlle two years earl ier
+on certain novel oscillator circuits and three years earlier in designing the terminal circuits,
+including the fi lters, and developing the mathematics for a carrier telephone system
+for short toll circu its.
+The frequency domain was used primarily to describe the operation of the feedback
+amplifiers in terms of bandwidth and other frequ ency variables. In contrast,
+the eminent mathematicians and applied mechanicians in the former Soviet Union
+inspired and dominated the field of control theory. 'TIl erefore, the Russian theory
+tended to utilize a time-domain formulation using differential equations.
+The control of an industrial process (manufacturing, production, and so on) by
+automatic rather than manual means is often called automation. Automation is
+prevalent in the che mical, electric power, paper, automobile, and steel industries,
+among others. The concept of automation is central lO our industrial society. Automatic
+machines are u sed to increase the production of a plant per worker in order to
+offset rising wages and inflationa ry costs. Thus industries are concerned with the
+productivity per worker of their plants. Productivity is defined as the ratio of physical
+output to physical input [26]. In this case, we are referring to labor productivity,
+which is real output per hour of work.
+The transformation of the U.S. labor force in the country's brief history follows
+the progressive mechanization of work that attended the evolution of the agrarian
+republic into an ind u strial world power. In 1820, more than 70 percent of the labor
+force worked on the farm. By 1900, less than 40 percent were engaged in agriculture.
+Today, less than 5 percent works in agriculture [15].
+In 1925, some 5 88,000 people-about 1.3 percent of the nation's labor forcewere
+needed to mille 520 million tons of bituminous coal and lignite, almost all of it
+from underground. By 1980, production was up to 774 million tons, but the work
+force had been reduced to 208,000. Furthermore, only 136,000 of tha t number were
+employed in underground mining operations. The highly mechanized and highly
+productive surface mines, with just 72,000 workers, produced 482 million tons, or 62
+percent of the total [27].
+A large impetus to the theory and practice of automatic control occurred during
+World War II when it became necessary to design and con struct automatic airplane
+
+
+a a a a 
+ b b b b b b b b 
+c c c c c c c 
+ddddddd
