@@ -17,7 +17,7 @@ print('len(words) : ',len(words))
 
 
 
-###words=input('input: ')
+### words=input('input: ')
 voices=['a','b','c','d','f','g','h','j','e','i','o','u','k','l','m','n','p','q','r','s','t','v','w','x','y','z']
 
 found=dict()
@@ -49,7 +49,7 @@ found['y']=0
 found['z']=0
 for letter in words:
     if letter in voices:
-        found[letter]+=1
+        found[letter]+=1   #اين قسمت کار شمارش کاراکترها رو انجام ميده
     else:
         pass
 else:
